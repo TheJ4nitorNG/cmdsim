@@ -1,0 +1,12 @@
+C:\Users\jelde\cmdsim\CmdSim.Sdk\bin\Release\net10.0\CmdSim.Sdk.deps.json
+C:\Users\jelde\cmdsim\CmdSim.Sdk\bin\Release\net10.0\CmdSim.Sdk.dll
+C:\Users\jelde\cmdsim\CmdSim.Sdk\bin\Release\net10.0\CmdSim.Sdk.pdb
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\CmdSim.Sdk.csproj.AssemblyReference.cache
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\CmdSim.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\CmdSim.Sdk.AssemblyInfoInputs.cache
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\CmdSim.Sdk.AssemblyInfo.cs
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\CmdSim.Sdk.csproj.CoreCompileInputs.cache
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\CmdSim.Sdk.dll
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\refint\CmdSim.Sdk.dll
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\CmdSim.Sdk.pdb
+C:\Users\jelde\cmdsim\CmdSim.Sdk\obj\Release\net10.0\ref\CmdSim.Sdk.dll

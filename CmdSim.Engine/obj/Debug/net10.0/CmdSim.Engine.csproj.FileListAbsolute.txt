@@ -1,0 +1,15 @@
+C:\Users\jelde\cmdsim\CmdSim.Engine\bin\Debug\net10.0\CmdSim.Engine.deps.json
+C:\Users\jelde\cmdsim\CmdSim.Engine\bin\Debug\net10.0\CmdSim.Engine.dll
+C:\Users\jelde\cmdsim\CmdSim.Engine\bin\Debug\net10.0\CmdSim.Engine.pdb
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.Engine.csproj.AssemblyReference.cache
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.Engine.AssemblyInfoInputs.cache
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.Engine.AssemblyInfo.cs
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.Engine.csproj.CoreCompileInputs.cache
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.Engine.dll
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\refint\CmdSim.Engine.dll
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.Engine.pdb
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\ref\CmdSim.Engine.dll
+C:\Users\jelde\cmdsim\CmdSim.Engine\bin\Debug\net10.0\CmdSim.Sdk.dll
+C:\Users\jelde\cmdsim\CmdSim.Engine\bin\Debug\net10.0\CmdSim.Sdk.pdb
+C:\Users\jelde\cmdsim\CmdSim.Engine\obj\Debug\net10.0\CmdSim.E.946D648E.Up2Date

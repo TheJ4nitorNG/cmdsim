@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CmdSim.Console/CmdSim.Console.csproj" />
+  <Project Path="CmdSim.Engine/CmdSim.Engine.csproj" />
+  <Project Path="CmdSim.Module/CmdSim.Module.csproj" />
+  <Project Path="CmdSim.Sdk/CmdSim.Sdk.csproj" />
+  <Project Path="CmdSim.Tests/CmdSim.Tests.csproj" />
+</Solution>
